@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Passageiro</string>
+
+
+    <string name="google_direction_api">AIzaSyBN4kZ7CjaNQXgGj1u43_eekGUVPTUXO8M</string>
+    <string name="facebook_app_id">840316559817331</string>
+    <string name="fb_login_protocol_scheme">fb840316559817331</string>
+    <string name="title_activity_main">Map</string>
+    <string name="title_activity_home">Passageiro</string>
+    <string name="navigation_drawer_open">Gaveta de navegação aberta</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+    <string name="action_settings">Configurações</string>
+    <string name="tv_login_title">RIDER</string>
+    <string name="tv_login_subtitle">Mobilidade</string>
+    <string name="login"> Entrar </string>
+    <string name="signin"> </string>
+    <string name="btn_accept">ACEITAR</string>
+    <string name="btn_decline">Negar</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="request_send">Solicitação de envio</string>
+    <string name="permission_denied_location">É necessária permissão para obter a localização</string>
+    <string name="cancelled">Cancelada</string>
+    <string name="could_not_login">Não foi possível fazer o login</string>
+    <string name="device_not_supported">Este dispositivo não é suportado</string>
+    <string name="cannot_get_location">Não é possível obter sua localização</string>
+    <string name="sent_failed">Falha no envio</string>
+    <string name="fill_fields">Por favor preencha todos os campos</string>
+    <string name="enter_email">Digite o endereço de e-mail</string>
+    <string name="enter_password">Digite a senha</string>
+    <string name="enter_name">Digite o nome</string>
+    <string name="enter_phone">Digite o número de telefone</string>
+    <string name="password_short">Senha muito curta</string>
+    <string name="failed">Falhou </string>
+    <string name="cancel">Cancelar</string>
+    <string name="register">REGISTRO</string>
+    <string name="registered">Registrado</string>
+    <string name="pickup_request">Pedido de retirada</string>
+    <string name="pickup_here">Minha localização</string>
+    <string name="optional">Opcional</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="phone">Fone</string>
+    <string name="call_driver">Driver de chamada</string>
+    <string name="getting_uber">Obtendo seu coletivo&#8230;</string>
+    <string name="you">Você</string>
+    <string name="forgot_password_msg">Precisamos apenas do seu  e-mail registrado para enviar a você as instruções de redefinição de senha.</string>
+
+
+    <string name="action_linhas_proximas_a_mim">Linhas próximas a mim</string>
+    <string name="action_todas_as_linhas">Todas as linhas</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="channel_arrived">Chegou</string>
+    <string name="channel_arrived_descrition">Notificações de motorista</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>

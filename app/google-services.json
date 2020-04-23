@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273612669385",
+    "firebase_url": "https://mobilidade-passajeiro.firebaseio.com",
+    "project_id": "mobilidade-passajeiro",
+    "storage_bucket": "mobilidade-passajeiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273612669385:android:1221065b2ffd05ed5ba818",
+        "android_client_info": {
+          "package_name": "estapar.mobilidade.mobilidadepassageiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273612669385-j15jsgbiu3s9ntnk2pec7csj8jcmh2t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "estapar.mobilidade.mobilidadepassageiro",
+            "certificate_hash": "346e8a56ff3392127fa13d24bfd733b4bfbb61e9"
+          }
+        },
+        {
+          "client_id": "273612669385-toplpr1qu1d95252l0rbpnvjl8utsaia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVksWNbIkzUtTA-eOL-GE6Z49KExgFHTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273612669385-toplpr1qu1d95252l0rbpnvjl8utsaia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

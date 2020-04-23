@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_airport_shuttle_black_24dpccc"
+        android:title="Checkin"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+
+    <item
+        android:id="@+id/action_linhas_proximas_a_mimm"
+        android:title="Reclamar"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+
+    <item
+        android:id="@+id/action_linhas_proximas_a_mim"
+        android:title="@string/action_linhas_proximas_a_mim"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+
+    <item
+        android:id="@+id/action_todas_as_linhas"
+        android:title="@string/action_todas_as_linhas"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+
+
+
+</menu>
